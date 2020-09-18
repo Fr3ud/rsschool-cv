@@ -31,3 +31,6 @@ console.log('b' + 'a' + +'a' + 'a');
 * VR Development. Sensorama. 2018
 * Advanced Front-end Course. Front-end Science. 2018
 * Front-end Development. GoIT. 2016
+
+## English
+Pre-intermediate (A2)
