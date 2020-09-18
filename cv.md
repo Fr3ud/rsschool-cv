@@ -20,7 +20,9 @@ Studying and working on UNIT Factory projects, I've become an extremely stress-r
 * Figma, Photoshop
 
 ## Code example
-```console.log("b" + "a" + +"a" + "a");```
+```js
+console.log("b" + "a" + +"a" + "a");
+```
 
 ## Experience and educations
 * Ecole 42 (software engineering school). 2020 - Present
