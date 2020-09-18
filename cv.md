@@ -21,7 +21,7 @@ Studying and working on UNIT Factory projects, I've become an extremely stress-r
 
 ## Code example
 ```js
-console.log("b" + "a" + +"a" + "a");
+console.log('b' + 'a' + +'a' + 'a');
 ```
 
 ## Experience and educations
