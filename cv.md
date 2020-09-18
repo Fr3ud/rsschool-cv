@@ -20,4 +20,12 @@ Studying and working on UNIT Factory projects, I've become an extremely stress-r
 * Figma, Photoshop
 
 ## Code example
-```console.log("b" + "a" + +"a" + "a");```s
+```console.log("b" + "a" + +"a" + "a");```
+
+## Experience and educations
+* Ecole 42 (software engineering school). 2020 - Present
+* UNIT Factory (software engineering school). 2017 - 2020
+* Web Design Intensive. WDI. 2019
+* VR Development. Sensorama. 2018
+* Advanced Front-end Course. Front-end Science. 2018
+* Front-end Development. GoIT. 2016
