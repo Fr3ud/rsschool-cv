@@ -11,10 +11,13 @@ I've graduated from UNIT Factory this year and now I'm studying at École 42 (so
 
 Studying and working on UNIT Factory projects, I've become an extremely stress-resistant developer with the ability to work on tasks of any difficulty, under any circumstances as well as always meeting the deadlines.
 
-##Skills
+## Skills
 * JavaScript, Python. C, Swift
 * HTML/CSS, SASS, LESS, PUG
 * React
 * Node.js
 * Webpack, Gulp
 * Figma, Photoshop
+
+## Code example
+```console.log("b" + "a" + +"a" + "a");```s
