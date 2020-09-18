@@ -5,7 +5,7 @@
 * Telegram: @apavelko
 
 ## Summary
-I’m going to start working as a Junior Front-end Developer this year. Want to be in a space where people do huge useful things and make high demands on themselves.
+I’m going to start working as a Junior Front-end Developer this year. And I want to be in a space where people do huge useful things and make high demands on themselves.
 
 I've graduated from UNIT Factory this year and now I'm studying at École 42 (software engineering school). I have 3+ years of non-commercial experience working with C, C# (Unity), Swift, and JavaScript.
 
